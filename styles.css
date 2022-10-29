@@ -1,0 +1,27 @@
+.grid 
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+    background-color: violet;
+ 
+    border: 2px solid black;
+  
+}
+.grid div 
+{
+    width :100px;
+    height: 100px;
+    background-color: bisque;
+font-size:69px;
+font-weight: bold;
+align-items: center;
+
+}
+.score-title 
+{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
